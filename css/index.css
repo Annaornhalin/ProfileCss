@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.profile{
+    margin: 0;
+    padding: 21.4px 0 0 0;
+}
+.hr-sec1{
+    margin: 0;
+}
+
+.me{
+    width: 33.33%; 
+    vertical-align: top;
+    color:black ;
+    padding: 0 0 0 50px;
+}
+.me:hover{
+    background-color: #FFADAD;
+    color: darkblue;
+}
+.me2{
+    font-weight:normal; 
+    text-align: justify;
+}
+.h2:hover{
+    background-color: cadetblue;
+
+}
+
+.h1{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+}
+.h4{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+}
+.h1{
+    color:rgb(0, 18, 175);
+}
+.h4{
+    color:rgb(0, 18, 175);
+}
+.h1:hover{
+    color: rgb(43, 1, 139);
+}
+.h4:hover{
+    color: rgb(70, 3, 196);
+}
+.sec1{
+    background-color: #FFADAD;
+}
+table{
+    width:100%;
+    text-align: center;
+}
+.table{
+    background-color: #FFDAC7;
+}
+.nav-td:hover{
+    background-color: #d6218b;
+}
+.navbarMenu{
+    text-decoration: none;
+    color: rgb(33, 52, 226);
+}
+.navbarMenu:hover{
+    color: #FFADAD;
+}
+.navbarMenu:active{
+    color: rgb(86, 6, 214);
+}
+.aboutme{
+    background-color: #FFEFBC;
+    padding-top: 45.5px;
+    padding-bottom: 45.5px;
+}
+.det{
+    width: 33.33%;
+    vertical-align: top;
+    text-align: left;
+    color: black;
+    padding:  0 0 0 180px;
+}
+.det:hover{
+    background-color: #FFADAD;
+    color: rgb(0, 18, 175);
+}
+.end{
+    text-align: center;
+    background-color: #FFFEB7;
+    margin: 0;
+    padding: 23px 0 23px 0;
+}
+
+

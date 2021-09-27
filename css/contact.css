@@ -1,0 +1,11 @@
+body{
+    background-color: #FFEFBC;
+}
+.table1{
+    background-color: #FFADAD;
+    width:100%;
+     text-align: center
+}
+.td:hover{
+    background-color:#FFDAC7 ;
+}

@@ -1,0 +1,42 @@
+.table{
+    background-color:#6ECB63;
+    width:100%; 
+    text-align: center
+}
+
+.PAD:hover{
+    
+background-color: #FF9A8C;
+}
+body{
+    background-color: #FFEFBC;
+}
+.ex{
+    text-align:center;
+    font-family: cursive;
+    
+}
+.k{
+    
+    text-align: center; 
+    font-family: Aclonica;
+     font-weight:normal
+}
+.div{
+    background-color: #6ECB63;
+}
+.div:hover{
+  background-color: #FF9A8C;;  
+}
+
+
+.table2{
+    background-color:#6ECB63 ;
+    margin-left: auto; 
+    margin-right: auto
+   
+}
+.table2:hover{
+    background-color:#FFDAC7; ;
+}
+

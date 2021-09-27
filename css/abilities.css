@@ -1,0 +1,31 @@
+body{
+    background-color:#F5E8C7;
+}.table1{
+    background-color: #9E7777;
+    width:100%; 
+    text-align: center
+}
+.td:hover{
+    background-color: #DEBA9D;
+}
+.table2{
+    color:  rgb(7, 7, 151);
+    background-color: #f5d1b3;
+}
+.table2:hover{
+    background-color: #c29978;
+}
+.sk{
+    color: rgb(7, 7, 151);
+    text-align: center;
+    background-color: #ca93aa;
+}
+.sk:hover{
+    background-color: #ca93aa;
+}
+.last{
+    background-color: #eeb191;
+}
+.last:hover{
+    background-color:#FFB085 ;
+}
